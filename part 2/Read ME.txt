@@ -1,0 +1,13 @@
+For Phase 1 :
+Assig2_Phase1_data.m : Computes Feature Matrix, PCA and new Feature matrix for each user from 1 to 30. (NEED ASSignment 1 data too)
+TrainTestSplit.m : function to split data randomly 60 % train and 40 % test
+Phase1_models.m : Contains the whole code for performance metrics and ML models for Phase 1. 
+
+
+For Phase 2 : 
+
+Need to Run Assig2_Phase1_data.m before !
+Phase2 _Indep.m : Contains the whole code for performance metrics and ML models for Phase 2. 
+
+
+For Overall /total data : Please go the folder overall data (IGNORE IT for this assignment)
